@@ -17,11 +17,11 @@
               <Literal>permanent_camp</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
+          <!-- <MaxScaleDenominator>5000000</MaxScaleDenominator> -->
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/camp_permanent_camp_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/camp_permanent_camp_100px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
               <Size>25</Size>
@@ -37,11 +37,11 @@
               <Literal>refugee_camp</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
+          <!-- <MaxScaleDenominator>5000000</MaxScaleDenominator> -->
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/camp_idp_refugee_camp_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/camp_idp_refugee_camp_100px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
               <Size>25</Size>
@@ -57,11 +57,11 @@
               <Literal>registration</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
+          <!-- <MaxScaleDenominator>5000000</MaxScaleDenominator> -->
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/camp_registration_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/camp_registration_100px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
               <Size>25</Size>
@@ -77,11 +77,11 @@
               <Literal>spontaneous_site</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
+          <!-- <MaxScaleDenominator>5000000</MaxScaleDenominator> -->
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/camp_spontaneous_site_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/camp_spontaneous_site_100px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
               <Size>25</Size>
@@ -97,11 +97,11 @@
               <Literal>temporary_camp</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
+          <!-- <MaxScaleDenominator>5000000</MaxScaleDenominator> -->
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/camp_temporary_camp_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/camp_temporary_camp_100px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
               <Size>25</Size>
@@ -117,11 +117,11 @@
               <Literal>transition_site</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
+          <!-- <MaxScaleDenominator>5000000</MaxScaleDenominator> -->
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/camp_transition_site_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/camp_transition_site_100px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
               <Size>25</Size>
@@ -168,11 +168,11 @@
               </And>
             </Or>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
+          <!-- <MaxScaleDenominator>5000000</MaxScaleDenominator> -->
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/td1_unknown.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/td1_unknown.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
             </Graphic>
