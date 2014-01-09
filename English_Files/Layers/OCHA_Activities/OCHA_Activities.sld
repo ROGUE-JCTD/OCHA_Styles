@@ -17,11 +17,10 @@
               <Literal>advocacy</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/activity_advocacy_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/activity_advocacy_100px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
               <Size>25</Size>
@@ -37,11 +36,10 @@
               <Literal>analysis</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/activity_analysis_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/activity_analysis_100px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
               <Size>25</Size>
@@ -57,11 +55,10 @@
               <Literal>assessment</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/activity_assessment_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/activity_assessment_100px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
               <Size>25</Size>
@@ -77,11 +74,10 @@
               <Literal>civil_military_coordination</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/activity_civil_military_coordination_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/activity_civil_military_coordination_100px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
               <Size>25</Size>
@@ -97,11 +93,10 @@
               <Literal>coordinated_assessment</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/activity_coordinated_assessment_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/activity_coordinated_assessment_100px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
               <Size>25</Size>
@@ -117,11 +112,10 @@
               <Literal>deployment</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/activity_deployment_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/activity_deployment_100px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
               <Size>25</Size>
@@ -137,11 +131,10 @@
               <Literal>financing</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/activity_financing_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/activity_financing_100px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
               <Size>25</Size>
@@ -157,11 +150,10 @@
               <Literal>fund</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/activity_fund_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/activity_fund_100px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
               <Size>25</Size>
@@ -177,11 +169,10 @@
               <Literal>gap_analysis</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/activity_gap_analysis_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/activity_gap_analysis_100px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
               <Size>25</Size>
@@ -197,11 +188,10 @@
               <Literal>humanitarian_programme_cycle</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/activity_humanitarian_programme_cycle_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/activity_humanitarian_programme_cycle_100px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
               <Size>25</Size>
@@ -217,11 +207,10 @@
               <Literal>information_management</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/activity_information_management_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/activity_information_management_100px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
               <Size>25</Size>
@@ -237,11 +226,10 @@
               <Literal>information_technology</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/activity_information_technology_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/activity_information_technology_100px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
               <Size>25</Size>
@@ -257,11 +245,10 @@
               <Literal>innovation</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/activity_innovation_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/activity_innovation_100px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
               <Size>25</Size>
@@ -277,11 +264,10 @@
               <Literal>leadership</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/activity_leadership_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/activity_leadership_100px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
               <Size>25</Size>
@@ -297,11 +283,10 @@
               <Literal>learning</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/activity_learning_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/activity_learning_100px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
               <Size>25</Size>
@@ -317,11 +302,10 @@
               <Literal>meeting</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/activity_meeting_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/activity_meeting_100px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
               <Size>25</Size>
@@ -337,11 +321,10 @@
               <Literal>needs_assessment</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/activity_needs_assessment_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/activity_needs_assessment_100px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
               <Size>25</Size>
@@ -357,11 +340,10 @@
               <Literal>partnership</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/activity_partnership_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/activity_partnership_100px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
               <Size>25</Size>
@@ -377,11 +359,10 @@
               <Literal>policy</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/activity_policy_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/activity_policy_100px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
               <Size>25</Size>
@@ -397,11 +378,10 @@
               <Literal>preparedness</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/activity_preparedness_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/activity_preparedness_100px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
               <Size>25</Size>
@@ -417,11 +397,10 @@
               <Literal>public_information</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/activity_public_information_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/activity_public_information_100px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
               <Size>25</Size>
@@ -437,11 +416,10 @@
               <Literal>reporting</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/activity_reporting_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/activity_reporting_100px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
               <Size>25</Size>
@@ -457,11 +435,10 @@
               <Literal>response</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/activity_response_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/activity_response_100px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
               <Size>25</Size>
@@ -477,11 +454,10 @@
               <Literal>scale_up_down_operation</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/activity_scale_operation_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/activity_scale_operation_100px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
               <Size>25</Size>
@@ -497,11 +473,10 @@
               <Literal>services_and_tools</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/activity_services_tools_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/activity_services_tools_100px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
               <Size>25</Size>
@@ -517,11 +492,10 @@
               <Literal>staff_management</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/activity_staff_management_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/activity_staff_management_100px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
               <Size>25</Size>
@@ -537,11 +511,10 @@
               <Literal>training</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/activity_training_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/activity_training_100px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
               <Size>25</Size>
@@ -672,11 +645,10 @@
               </And>
             </Or>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/td1_unknown.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/td1_unknown.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
             </Graphic>
