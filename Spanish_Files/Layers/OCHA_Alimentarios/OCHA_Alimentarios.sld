@@ -17,14 +17,12 @@
               <Literal>cobija</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/food_NFI_blanket_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/food_NFI_blanket_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -37,14 +35,12 @@
               <Literal>agua_embotellada</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/food_NFI_bottled_water_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/food_NFI_bottled_water_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -57,14 +53,12 @@
               <Literal>balde</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/food_NFI_bucket_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/food_NFI_bucket_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -77,14 +71,12 @@
               <Literal>ropa</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/food_NFI_clothing_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/food_NFI_clothing_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -97,14 +89,12 @@
               <Literal>detergente</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/food_NFI_detergent_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/food_NFI_detergent_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -117,14 +107,12 @@
               <Literal>harina</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/food_NFI_flour_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/food_NFI_flour_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -137,14 +125,12 @@
               <Literal>comida</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/food_NFI_food_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/food_NFI_food_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -157,14 +143,12 @@
               <Literal>formula_para_infantes</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/food_NFI_infant_formula_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/food_NFI_infant_formula_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -177,14 +161,12 @@
               <Literal>utensilios_de_cocina</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/food_NFI_kitchen_set_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/food_NFI_kitchen_set_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -197,14 +179,12 @@
               <Literal>colchon</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/food_NFI_mattress_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/food_NFI_mattress_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -217,14 +197,12 @@
               <Literal>medicina</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/food_NFI_medicine_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/food_NFI_medicine_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -237,14 +215,12 @@
               <Literal>suministros_medicos</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/food_NFI_medical_supply_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/food_NFI_medical_supply_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -257,14 +233,12 @@
               <Literal>mosquitero</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/food_NFI_mosquito_net_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/food_NFI_mosquito_net_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -277,14 +251,12 @@
               <Literal>articulos_no_alimentarios</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/food_NFI_nonfood_item_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/food_NFI_nonfood_item_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -297,14 +269,12 @@
               <Literal>Aceite</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/food_NFI_oil_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/food_NFI_oil_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -317,14 +287,12 @@
               <Literal>laminas_de_plastico</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/food_NFI_plastic_sheeting_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/food_NFI_plastic_sheeting_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -337,14 +305,12 @@
               <Literal>bienes_de_socorro</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/food_NFI_relief_goods_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="../rogue_symbols/food_NFI_relief_goods_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -357,14 +323,12 @@
               <Literal>arroz</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/food_NFI_rice_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/food_NFI_rice_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -377,14 +341,12 @@
               <Literal>sal</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/food_NFI_salt_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/food_NFI_salt_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -397,14 +359,12 @@
               <Literal>Jabon</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/food_NFI_soap_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/food_NFI_soap_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -417,14 +377,12 @@
               <Literal>estufa</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/food_NFI_stove_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/food_NFI_stove_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -437,14 +395,12 @@
               <Literal>azucar</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/food_NFI_sugar_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/food_NFI_sugar_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -457,14 +413,12 @@
               <Literal>toldo</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/food_NFI_tarpaulin_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/food_NFI_tarpaulin_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -477,14 +431,12 @@
               <Literal>tienda_de_campana</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/food_NFI_tent_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/food_NFI_tent_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -497,14 +449,12 @@
               <Literal>vacuna</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/food_NFI_vaccine_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/food_NFI_vaccine_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -624,11 +574,10 @@
               </And>
             </Or>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/td1_unknown.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/unknown_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
             </Graphic>

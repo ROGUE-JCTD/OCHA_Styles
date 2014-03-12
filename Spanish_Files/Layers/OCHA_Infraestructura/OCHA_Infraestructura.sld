@@ -18,14 +18,12 @@
               <Literal>punto_de_reunion</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/infrastructure_assembly_point_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/infrastructure_assembly_point_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -38,14 +36,12 @@
               <Literal>templo_budista</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/infrastructure_buddhist_temple_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/infrastructure_buddhist_temple_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -58,14 +54,12 @@
               <Literal>edificio</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/infrastructure_building_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/infrastructure_building_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -78,14 +72,12 @@
               <Literal>iglesia</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/infrastructure_church_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/infrastructure_church_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -98,14 +90,12 @@
               <Literal>clinica</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/infrastructure_clinic_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/infrastructure_clinic_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -118,14 +108,12 @@
               <Literal>edificio_comunitario</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/infrastructure_community_building_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/infrastructure_community_building_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -138,14 +126,12 @@
               <Literal>mision_diplomatica</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/infrastructure_diplomatic_mission_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/infrastructure_diplomatic_mission_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -158,14 +144,12 @@
               <Literal>sitio_de_distribucion</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/infrastructure_distribution_site_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/infrastructure_distribution_site_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -178,14 +162,12 @@
               <Literal>almacen_de_alimentos</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/infrastructure_food_warehouse_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/infrastructure_food_warehouse_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -198,14 +180,12 @@
               <Literal>oficina_de_gobierno</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/infrastructure_government_office_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/infrastructure_government_office_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -218,14 +198,12 @@
               <Literal>centro_de_salud</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/infrastructure_health_facility_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/infrastructure_health_facility_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -238,14 +216,12 @@
               <Literal>puesto_de_salud</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/infrastructure_health_post_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/infrastructure_health_post_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -258,14 +234,12 @@
               <Literal>templo_hindu</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/infrastructure_hindu_temple_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/infrastructure_hindu_temple_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -278,14 +252,12 @@
               <Literal>hospital</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/infrastructure_hospital_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/infrastructure_hospital_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -298,14 +270,12 @@
               <Literal>hotel</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/infrastructure_hotel_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/infrastructure_hotel_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -318,14 +288,12 @@
               <Literal>casa</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/infrastructure_house_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/infrastructure_house_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -338,14 +306,12 @@
               <Literal>infraestructura</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/infrastructure_infrastructure_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/infrastructure_infrastructure_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -358,14 +324,12 @@
               <Literal>clinica_movil</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/infrastructure_mobile_clinic_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/infrastructure_mobile_clinic_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -378,14 +342,12 @@
               <Literal>mezquita</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/infrastructure_mosque_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/infrastructure_mosque_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -398,14 +360,12 @@
               <Literal>oficina_ONG</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/infrastructure_NGO_office_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/infrastructure_NGO_office_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -418,14 +378,12 @@
               <Literal>estacion_de_bomberos</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/infrastructure_fire_station_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/infrastructure_fire_station_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>20</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -438,14 +396,12 @@
               <Literal>estacion_de_policia</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/infrastructure_police_station_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/infrastructure_police_station_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -458,14 +414,12 @@
               <Literal>escuela</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/infrastructure_school_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/infrastructure_school_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -478,14 +432,12 @@
               <Literal>recinto_de_las_Naciones_Unidas</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/infrastructure_UN_compound_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/infrastructure_UN_compound_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -498,14 +450,12 @@
               <Literal>universidad</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/infrastructure_university_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/infrastructure_university_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -625,11 +575,10 @@
               </And>
             </Or>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/td1_unknown.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/unknown_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
             </Graphic>

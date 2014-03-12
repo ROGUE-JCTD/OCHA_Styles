@@ -17,14 +17,12 @@
               <Literal>affected_population</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/people_affected_population_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/people_affected_population_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -37,14 +35,12 @@
               <Literal>missing</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/people_missing_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/people_missing_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -57,14 +53,12 @@
               <Literal>dead</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/people_dead_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/people_dead_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -77,14 +71,12 @@
               <Literal>injured</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/people_injured_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/people_injured_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -97,14 +89,12 @@
               <Literal>drowned</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/people_drowned_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/people_drowned_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -117,14 +107,12 @@
               <Literal>national_army</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/people_national_army_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/people_national_army_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -137,14 +125,12 @@
               <Literal>rebel</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/people_rebel_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/people_rebel_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -157,14 +143,12 @@
               <Literal>child_combatant</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/people_child_combatant_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/people_child_combatant_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -177,14 +161,12 @@
               <Literal>peacekeeping_force</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/people_peacekeeping_force_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/people_peacekeeping_force_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -197,14 +179,12 @@
               <Literal>infant</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/people_infant_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/people_infant_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -217,14 +197,12 @@
               <Literal>children</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/people_children_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/people_children_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -237,14 +215,12 @@
               <Literal>man</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/people_man_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/people_man_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -257,14 +233,12 @@
               <Literal>woman</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/people_woman_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/people_woman_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -277,14 +251,12 @@
               <Literal>elderly</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/people_elderly_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/people_elderly_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -297,14 +269,12 @@
               <Literal>pregnant</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/people_pregnant_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/people_pregnant_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -317,14 +287,12 @@
               <Literal>physical_impairments</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/people_physical_impairments_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/people_physical_impairments_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -408,11 +376,10 @@
               </And>
             </Or>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/td1_unknown.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/unknown_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
             </Graphic>

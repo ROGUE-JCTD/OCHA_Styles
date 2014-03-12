@@ -17,14 +17,12 @@
               <Literal>cruce_de_frontera</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/physical_barrier_border_crossing_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/physical_barrier_border_crossing_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -37,14 +35,12 @@
               <Literal>puesto_de_control</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/physical_barrier_checkpoint_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/physical_barrier_checkpoint_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -57,14 +53,12 @@
               <Literal>monticulo_de_tierra</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/physical_barrier_earthmound_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/physical_barrier_earthmound_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -77,14 +71,12 @@
               <Literal>puesto_militar</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/physical_barrier_military_gate_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/physical_barrier_military_gate_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -97,14 +89,12 @@
               <Literal>torre_de_observacion</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/physical_barrier_observation_tower_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/physical_barrier_observation_tower_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -117,14 +107,12 @@
               <Literal>cierre_fisico</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/physical_barrier_physical_closure_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/physical_barrier_physical_closure_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -137,14 +125,12 @@
               <Literal>barrera_de_camino</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/physical_barrier_road_barrier_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/physical_barrier_road_barrier_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -157,14 +143,12 @@
               <Literal>barricada</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/physical_barrier_roadblock_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/physical_barrier_roadblock_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -216,11 +200,10 @@
               </And>
             </Or>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/td1_unknown.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/unknown_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
             </Graphic>

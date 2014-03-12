@@ -21,10 +21,9 @@
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="file://../rogue_symbols/camp_permanent_camp_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/camp_permanent_camp_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -41,10 +40,9 @@
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="file://../rogue_symbols/camp_idp_refugee_camp_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/camp_idp_refugee_camp_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -61,10 +59,9 @@
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="file://../rogue_symbols/camp_registration_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/camp_registration_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -81,10 +78,9 @@
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="file://../rogue_symbols/camp_spontaneous_site_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/camp_spontaneous_site_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -101,10 +97,9 @@
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="file://../rogue_symbols/camp_temporary_camp_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/camp_temporary_camp_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -121,10 +116,9 @@
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="file://../rogue_symbols/camp_transition_site_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/camp_transition_site_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -172,7 +166,7 @@
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="file://../rogue_symbols/td1_unknown.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/unknown_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
             </Graphic>

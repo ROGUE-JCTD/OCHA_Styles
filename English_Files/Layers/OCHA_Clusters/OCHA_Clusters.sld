@@ -17,14 +17,13 @@
               <Literal>camp_coordination_management</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
+          <!-- MaxScaleDenominator>5000000</MaxScaleDenominator -->
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/cluster_CCCM_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/cluster_CCCM_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -37,14 +36,13 @@
               <Literal>early_recovery</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
+          <!-- MaxScaleDenominator>5000000</MaxScaleDenominator -->
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/cluster_early_recovery_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/cluster_early_recovery_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -57,14 +55,13 @@
               <Literal>education</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
+          <!-- MaxScaleDenominator>5000000</MaxScaleDenominator -->
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/cluster_education_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/cluster_education_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -77,14 +74,13 @@
               <Literal>emergency_telecommunications</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
+          <!-- MaxScaleDenominator>5000000</MaxScaleDenominator -->
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/cluster_emergency_telecommunications_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/cluster_emergency_telecommunications_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -97,14 +93,13 @@
               <Literal>food_security</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
+          <!-- MaxScaleDenominator>5000000</MaxScaleDenominator -->
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/cluster_food_security_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/cluster_food_security_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -117,14 +112,13 @@
               <Literal>health</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
+          <!-- MaxScaleDenominator>5000000</MaxScaleDenominator -->
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/cluster_health_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/cluster_health_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -137,14 +131,13 @@
               <Literal>logistics</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
+          <!-- MaxScaleDenominator>5000000</MaxScaleDenominator -->
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/cluster_logistics_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/cluster_logistics_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -157,14 +150,13 @@
               <Literal>nutrition</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
+          <!-- MaxScaleDenominator>5000000</MaxScaleDenominator -->
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/cluster_nutrition_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/cluster_nutrition_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -177,14 +169,13 @@
               <Literal>protection</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
+          <!-- MaxScaleDenominator>5000000</MaxScaleDenominator -->
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/cluster_protection_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/cluster_protection_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -197,14 +188,13 @@
               <Literal>shelter</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
+          <!-- MaxScaleDenominator>5000000</MaxScaleDenominator -->
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/cluster_shelter_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/cluster_shelter_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -217,14 +207,13 @@
               <Literal>water_sanitation_hygiene</Literal>
             </PropertyIsEqualTo>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
+          <!-- MaxScaleDenominator>5000000</MaxScaleDenominator -->
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/cluster_WASH_100px.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/cluster_WASH_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
@@ -288,11 +277,11 @@
               </And>
             </Or>
           </Filter>
-          <MaxScaleDenominator>5000000</MaxScaleDenominator>
+          <!-- MaxScaleDenominator>5000000</MaxScaleDenominator -->
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="../rogue_symbols/td1_unknown.png" xlink:type="simple"/>
+                <OnlineResource xlink:href="file://../rogue_symbols/unknown_20px.png" xlink:type="simple"/>
                 <Format>image/png</Format>
               </ExternalGraphic>
             </Graphic>
