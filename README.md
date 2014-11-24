@@ -12,6 +12,6 @@ Schema_Definition
 
 Select this link to see instructions on how to create and modify a schema.xsd file, which is used when you want to set certain attribute fields as domains.
 
-https://docs.google.com/a/lmnsolutions.com/document/d/1gz0qHIhY0LT2xceRX8gpXDCwbOxshzmbLXCu48Tz-MM/edit
+https://docs.google.com/document/d/1_RKsIoKq21pS2IBRudb8bLaL5yHofBAZoq6vG3Zn77w/edit?usp=sharing
 
 
