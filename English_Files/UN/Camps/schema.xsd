@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><xsd:schema xmlns:geonode="http://www.geonode.org/" xmlns:gml="http://www.opengis.net/gml" xmlns:xsd="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" targetNamespace="http://www.geonode.org/">
+  <xsd:import namespace="http://www.opengis.net/gml" schemaLocation="http://geoshape.prominentedge.com/geoserver/schemas/gml/3.1.1/base/gml.xsd"/>
+  <xsd:complexType name="CampsType">
+    <xsd:complexContent>
+      <xsd:extension base="gml:AbstractFeatureType">
+        <xsd:sequence>
+          <xsd:element maxOccurs="1" minOccurs="0" name="the_geom" nillable="true" type="gml:PointPropertyType"/>
+          <xsd:element maxOccurs="1" minOccurs="0" name="id" nillable="true" type="xsd:long"/>
+					<xsd:element maxOccurs="1" minOccurs="0" name="Type" nillable="true">
+						<xsd:simpleType>
+							<xsd:restriction base="xsd:string">
+								<xsd:enumeration value="permanent_camp"/>
+								<xsd:enumeration value="refugee_camp"/>
+								<xsd:enumeration value="registration"/>
+								<xsd:enumeration value="spontaneous_site"/>
+								<xsd:enumeration value="temporary_camp"/>
+								<xsd:enumeration value="transition_site"/>
+							</xsd:restriction>
+						</xsd:simpleType>
+					</xsd:element>
+					<xsd:element maxOccurs="1" minOccurs="0" name="Status" nillable="true">
+						<xsd:simpleType>
+							<xsd:restriction base="xsd:string">
+								<xsd:enumeration value="open"/>
+								<xsd:enumeration value="closed"/>
+								<xsd:enumeration value="full"/>
+							</xsd:restriction>
+						</xsd:simpleType>
+					</xsd:element>
+          <xsd:element maxOccurs="1" minOccurs="0" name="Name" nillable="true" type="xsd:string"/>
+          <xsd:element maxOccurs="1" minOccurs="0" name="DateTime" nillable="true" type="xsd:dateTime"/>
+          <xsd:element maxOccurs="1" minOccurs="0" name="Sponsor" nillable="true" type="xsd:string"/>
+          <xsd:element maxOccurs="1" minOccurs="0" name="Comments" nillable="true" type="xsd:string"/>
+        </xsd:sequence>
+      </xsd:extension>
+    </xsd:complexContent>
+  </xsd:complexType>
+  <xsd:element name="Camps" substitutionGroup="gml:_Feature" type="geonode:CampsType"/>
+</xsd:schema>
